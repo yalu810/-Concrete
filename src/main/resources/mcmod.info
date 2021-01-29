@@ -1,0 +1,16 @@
+[
+{
+  "modid": "concrete",
+  "name": "Concrete Mod",
+  "description": "好啦 我知道不會有人看簡介.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yalu"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
