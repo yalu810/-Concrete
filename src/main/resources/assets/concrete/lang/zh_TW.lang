@@ -1,3 +1,4 @@
+#Block
 tile.black_concrete.name=黑色混凝土
 tile.blue_concrete.name=藍色混凝土
 tile.brown_concrete.name=棕色混凝土
@@ -14,3 +15,5 @@ tile.purple_concrete.name=紫色混凝土
 tile.red_concrete.name=紅色混凝土
 tile.white_concrete.name=白色混凝土
 tile.yellow_concrete.name=黃色混凝土
+#Tab
+itemGroup.Concrete=混凝土
