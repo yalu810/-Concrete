@@ -1,7 +1,6 @@
 package com.yalu.concrete.CreativeTab
 
 import net.minecraft.creativetab.CreativeTabs
-
 import net.minecraft.item.Item
 
 class CreativeTabConcrete(label: String?) : CreativeTabs(label) {
